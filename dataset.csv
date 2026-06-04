@@ -1,0 +1,5 @@
+PowerIssue,NetworkIssue,Fault
+1,0,Battery Fault
+1,1,Overheating
+0,1,Network Fault
+0,0,Normal
